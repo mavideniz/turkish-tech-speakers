@@ -11,3 +11,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 |Fatih Durmaz|TEDAŞ| iOS, SwiftUI |fatih.durmaz@outlook.com| [link](https://www.linkedin.com/in/fthdrmz23/)|
 |Sezer İltekin|Şanstech| iOS, Mobile App Development, Viral Projects |sezer@iltekin.com| [link](https://www.linkedin.com/in/iltekin/)|
 |Ömer Ulusal|Wise| iOS |ulusalomer@gmail.com| [link](https://www.linkedin.com/in/ulusalomer/)|
+| Rıdvan Özcan | Sahibinden.com | Android | ridvanozcan48@hotmail.com.com | [link](https://www.linkedin.com/in/ridvanozcan/)|
