@@ -8,3 +8,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 |Name|Company|Talk Topics|Email|LinkedIn|
 |--|---|--|--|--|
 |Doğancan Mavideniz|Trendyol| iOS, Mobile Programming |hi@dogancan.dev| [link](https://www.linkedin.com/in/johndoe/)|
+|Fatih Durmaz|TEDAŞ| iOS, SwiftUI |fatih.durmaz@outlook.com| [link](https://www.linkedin.com/in/fthdrmz23/)|
