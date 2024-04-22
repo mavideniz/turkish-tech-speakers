@@ -17,3 +17,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Baris Ceviz | Just Eat Takeaway | Backend Development, Platform/DevEx Eng | me@barisceviz.com | [link](https://www.linkedin.com/in/peacecwz/)|
 | Sina Atalay | \- | Scientific Computing | dev@atalay.biz | [link](https://www.linkedin.com/in/sinaatalay/)|
 | Murat Mirgün Ercan | Teknasyon | Golang & Backend Development | muratmirgunercan@gmail.com | [link](https://www.linkedin.com/in/murat-m-ercan/)|
+| Bora Biricik | Teknasyon | Web (React), React-Native | bora@biricik.dev | [link](https://www.linkedin.com/in/bora-biricik/)|
