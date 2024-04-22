@@ -15,3 +15,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Orhun Parmaksız | \- | Rust, Linux | orhunparmaksiz@gmail.com | [link](https://www.linkedin.com/in/orhunp/)|
 | Semih Kışlar | Teknasyon | Developer Relations, Web Development | semihkislar@gmail.com | [link](https://www.linkedin.com/in/semihkislar/)|
 | Sina Atalay | \- | Scientific Computing | dev@atalay.biz | [link](https://www.linkedin.com/in/sinaatalay/)|
+| Murat Mirgün Ercan | Teknasyon | Golang & Backend Development | muratmirgunercan@gmail.com | [link](https://www.linkedin.com/in/murat-m-ercan/)|
