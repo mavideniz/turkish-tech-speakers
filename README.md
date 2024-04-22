@@ -18,3 +18,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Sina Atalay | \- | Scientific Computing | dev@atalay.biz | [link](https://www.linkedin.com/in/sinaatalay/)|
 | Murat Mirgün Ercan | Teknasyon | Golang & Backend Development | muratmirgunercan@gmail.com | [link](https://www.linkedin.com/in/murat-m-ercan/)|
 | Bora Biricik | Teknasyon | Web (React), React-Native | bora@biricik.dev | [link](https://www.linkedin.com/in/bora-biricik/)|
+| Caner Türe | Teknasyon | Android, Kotlin, Mobile Development | cnrture@gmail.com | [link](https://www.linkedin.com/in/cnrture/)|
