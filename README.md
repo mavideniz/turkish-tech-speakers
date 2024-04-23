@@ -20,3 +20,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Bora Biricik | Teknasyon | Web (React), React-Native | bora@biricik.dev | [link](https://www.linkedin.com/in/bora-biricik/)|
 | Caner Türe | Teknasyon | Android, Kotlin, Mobile Development | cnrture@gmail.com | [link](https://www.linkedin.com/in/cnrture/)|
 | Mert Metin | Sompo Sigorta | .NET, C#, Full Stack Development | mert.metin.dev@gmail.com | [link](https://www.linkedin.com/in/mrtmtn/)|
+| Mahmut Gündoğdu | - | Angular, React Native, ABP , 3d printing | MahmutGundogdu@hotmail.com.tr | [link](https://www.linkedin.com/in/mahmutgundogdu/)|
