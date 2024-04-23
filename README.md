@@ -19,3 +19,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Murat Mirgün Ercan | Teknasyon | Golang & Backend Development | muratmirgunercan@gmail.com | [link](https://www.linkedin.com/in/murat-m-ercan/)|
 | Bora Biricik | Teknasyon | Web (React), React-Native | bora@biricik.dev | [link](https://www.linkedin.com/in/bora-biricik/)|
 | Caner Türe | Teknasyon | Android, Kotlin, Mobile Development | cnrture@gmail.com | [link](https://www.linkedin.com/in/cnrture/)|
+| Mert Metin | Sompo Sigorta | .NET, C#, Full Stack Development | mert.metin.dev@gmail.com | [link](https://www.linkedin.com/in/mrtmtn/)|
