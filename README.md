@@ -26,4 +26,4 @@ We also sincerely encourage you to open pull requests and add new speakers to ke
 | Okan Davut         | adesso Turkey     | Frontend Development & React                | davut.okan@gmail.com          | [link](https://www.linkedin.com/in/okandavut/) |
 | Burak Cem Sayılar  | PEAKUP            | Machine Learning, Data Science              | me@cemsayilar.com             | [link](https://www.linkedin.com/in/cemsayilar/)      |
 | Mehmet ATEŞ        | Trendyol          | iOS, SwiftUI, Mobile Programming            | dev.mehmetates@gmail.com      | [link](https://www.linkedin.com/in/devmehmetates/)   |
-
+| Said CANKIRAN      | Trendyol          | iOS, Mobile Programming                     | saidcankiran@icloud.com       | [link](https://www.linkedin.com/in/said-cankiran/)   |
